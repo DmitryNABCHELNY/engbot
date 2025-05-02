@@ -1,0 +1,564 @@
+{
+  "A1": {
+    "adventure": [
+      {
+        "title": "The Secret Garden",
+        "desc": "A simple and classic story of a young orphaned girl discovering a hidden garden."
+      },
+      {
+        "title": "Peter Pan",
+        "desc": "A fun and adventurous tale of a boy who refuses to grow up."
+      },
+      {
+        "title": "The Wind in the Willows",
+        "desc": "The adventures of Mole, Rat, Badger, and Toad in the English countryside."
+      },
+      {
+        "title": "Charlotte's Web",
+        "desc": "A touching story about friendship between a pig named Wilbur and a spider named Charlotte."
+      },
+      {
+        "title": "The Adventures of Tom Sawyer",
+        "desc": "Tom Sawyer’s mischievous adventures growing up along the Mississippi River."
+      }
+    ],
+    "detective": [
+      {
+        "title": "The Adventures of Sherlock Holmes",
+        "desc": "The legendary detective Sherlock Holmes solves complex mysteries with his logical thinking."
+      },
+      {
+        "title": "The Secret Adversary",
+        "desc": "A detective story by Agatha Christie about a couple solving mysterious events."
+      },
+      {
+        "title": "The Hardy Boys: The Tower of Treasure",
+        "desc": "Two brothers solving puzzles and mysteries to uncover treasure."
+      },
+      {
+        "title": "Nancy Drew: The Secret of the Old Clock",
+        "desc": "Nancy Drew uncovers clues leading to a hidden inheritance."
+      },
+      {
+        "title": "The 39 Clues: The Maze of Bones",
+        "desc": "A brother and sister search for the mysterious 39 clues scattered around the world."
+      }
+    ],
+    "science_fiction": [
+      {
+        "title": "The Little Prince",
+        "desc": "A young prince visits Earth, meeting several characters that teach valuable life lessons."
+      },
+      {
+        "title": "Journey to the Center of the Earth",
+        "desc": "A scientific expedition ventures deep into the Earth's core, uncovering unexpected wonders and dangers."
+      },
+      {
+        "title": "The Wonderful Wizard of Oz",
+        "desc": "A young girl named Dorothy embarks on an adventure in the magical land of Oz."
+      },
+      {
+        "title": "The Time Machine",
+        "desc": "A scientist invents a machine that allows him to travel through time."
+      },
+      {
+        "title": "A Wrinkle in Time",
+        "desc": "A young girl travels through dimensions to rescue her father and defeat an evil force."
+      }
+    ],
+    "historical_fiction": [
+      {
+        "title": "Little House on the Prairie",
+        "desc": "The life of a pioneer family living on the American frontier in the 19th century."
+      },
+      {
+        "title": "The Diary of Anne Frank",
+        "desc": "The story of a Jewish girl hiding from the Nazis during World War II."
+      },
+      {
+        "title": "Johnny Tremain",
+        "desc": "A young boy comes of age during the American Revolution."
+      },
+      {
+        "title": "The Indian in the Cupboard",
+        "desc": "A boy uses a magical cupboard to bring toys to life, experiencing historical adventures."
+      },
+      {
+        "title": "Sarah, Plain and Tall",
+        "desc": "A widow moves with her children to the prairie to start a new life."
+      }
+    ],
+    "fantasy": [
+      {
+        "title": "The Hobbit",
+        "desc": "Bilbo Baggins embarks on a perilous journey with a group of dwarfs to reclaim a stolen treasure."
+      },
+      {
+        "title": "Alice's Adventures in Wonderland",
+        "desc": "A whimsical and classic tale of Alice's adventures in a fantastical world."
+      },
+      {
+        "title": "The Lion, the Witch, and the Wardrobe",
+        "desc": "Four children enter a magical world through a wardrobe and become part of the battle to save Narnia."
+      },
+      {
+        "title": "The Wind in the Willows",
+        "desc": "Mole, Rat, Badger, and Toad live in a magical world full of adventure and fun."
+      },
+      {
+        "title": "The Magic Faraway Tree",
+        "desc": "Three children discover an enchanted tree with magical lands at the top."
+      }
+    ],
+    "romance_novel": [
+      {
+        "title": "Little Women",
+        "desc": "The story of four sisters growing up during the American Civil War, focusing on their coming-of-age experiences."
+      },
+      {
+        "title": "Anne of Green Gables",
+        "desc": "The story of an imaginative orphan girl who is adopted by a brother and sister and grows up in a Canadian village."
+      },
+      {
+        "title": "Pride and Prejudice (Adapted)",
+        "desc": "A simplified version of Jane Austen's classic romance about Elizabeth Bennet and Mr. Darcy."
+      },
+      {
+        "title": "The Secret Garden",
+        "desc": "A young orphan girl discovers a secret garden and begins to heal and grow."
+      },
+      {
+        "title": "The Princess and the Pea",
+        "desc": "A fairy tale romance between a prince and a princess."
+      }
+    ],
+    "short_stories": [
+      {
+        "title": "The Happy Prince",
+        "desc": "A story about a statue of a prince who gives away his wealth to help the poor."
+      },
+      {
+        "title": "The Selfish Giant",
+        "desc": "A giant learns the importance of kindness and generosity."
+      },
+      {
+        "title": "The Tortoise and the Hare",
+        "desc": "A classic fable about the value of persistence and humility."
+      },
+      {
+        "title": "The Ugly Duckling",
+        "desc": "The story of a little bird who grows into a beautiful swan."
+      },
+      {
+        "title": "The Little Match Girl",
+        "desc": "A poor girl struggles to survive during a cold winter night, dreaming of a better life."
+      }
+    ],
+    "western": [
+      {
+        "title": "The Last of the Mohicans",
+        "desc": "The story of a young man caught in the battle between Native Americans and European settlers."
+      },
+      {
+        "title": "Riders of the Purple Sage",
+        "desc": "A story of love and adventure in the American West."
+      },
+      {
+        "title": "The Virginian",
+        "desc": "A tale of a cowboy who rises to the top in the Wild West."
+      },
+      {
+        "title": "The Man Who Shot Liberty Valance",
+        "desc": "A story of revenge, law, and the frontier."
+      },
+      {
+        "title": "The Big Sky",
+        "desc": "A story about the expansion of the American frontier and the challenges of life in the wilderness."
+      }
+    ],
+    "horror": [
+      {
+        "title": "The Legend of Sleepy Hollow",
+        "desc": "The eerie story of the ghostly apparition of the Headless Horseman."
+      },
+      {
+        "title": "Frankenstein (Adapted)",
+        "desc": "A simplified version of the famous horror story about a scientist and his monster."
+      },
+      {
+        "title": "The Tell-Tale Heart",
+        "desc": "A suspenseful short story about a man driven to madness and murder."
+      },
+      {
+        "title": "Dracula (Adapted)",
+        "desc": "A simplified version of the famous tale about the vampire Count Dracula."
+      },
+      {
+        "title": "The Monkey's Paw",
+        "desc": "A horror story about a magical object that grants wishes with dire consequences."
+      }
+    ],
+    "classic": [
+      {
+        "title": "Alice's Adventures in Wonderland",
+        "desc": "A whimsical and classic tale of Alice's adventures in a fantastical world."
+      },
+      {
+        "title": "The Little Prince",
+        "desc": "A young prince visits Earth, meeting several characters that teach valuable life lessons."
+      },
+      {
+        "title": "The Tale of Peter Rabbit",
+        "desc": "The story of the mischievous Peter Rabbit and his adventures in Mr. McGregor's garden."
+      },
+      {
+        "title": "The Ugly Duckling",
+        "desc": "The story of a little bird who grows into a beautiful swan."
+      },
+      {
+        "title": "The Velveteen Rabbit",
+        "desc": "A toy rabbit wants to become real through the love of a child."
+      }
+    ]
+  },
+  "A2": {
+    "adventure": [
+      {
+        "title": "The Call of the Wild",
+        "desc": "Buck, a dog, embarks on an adventure in the wilds of Alaska, discovering his true nature."
+      },
+      {
+        "title": "Treasure Island",
+        "desc": "The story of a young boy who finds a treasure map and embarks on an adventure to find hidden treasure."
+      },
+      {
+        "title": "Swiss Family Robinson",
+        "desc": "A family survives a shipwreck and builds a new life on a desert island."
+      },
+      {
+        "title": "The Jungle Book",
+        "desc": "The adventures of Mowgli, a boy raised by wolves in the jungle."
+      },
+      {
+        "title": "Robin Hood",
+        "desc": "The story of the legendary outlaw who stole from the rich to give to the poor."
+      }
+    ],
+    "detective": [
+      {
+        "title": "Sherlock Holmes: The Hound of the Baskervilles",
+        "desc": "Sherlock Holmes investigates the mysterious death of a man allegedly killed by a supernatural hound."
+      },
+      {
+        "title": "The Adventures of Hercule Poirot",
+        "desc": "A collection of detective stories featuring the famous Belgian detective Hercule Poirot."
+      },
+      {
+        "title": "The Woman in White",
+        "desc": "A thrilling mystery about a woman who escapes from a mental asylum and the secrets she holds."
+      },
+      {
+        "title": "The Murders in the Rue Morgue",
+        "desc": "Edgar Allan Poe’s first detective story, featuring detective C. Auguste Dupin."
+      },
+      {
+        "title": "Murder on the Orient Express",
+        "desc": "Detective Poirot investigates a murder on the famous train, the Orient Express."
+      }
+    ],
+    "science_fiction": [
+      {
+        "title": "The War of the Worlds",
+        "desc": "A tale of Earth’s invasion by Martians and the efforts to survive the alien assault."
+      },
+      {
+        "title": "The Invisible Man",
+        "desc": "A scientist discovers how to become invisible but is driven mad by his newfound power."
+      },
+      {
+        "title": "20,000 Leagues Under the Sea",
+        "desc": "A journey beneath the sea to explore the mysterious and dangerous underwater world."
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "desc": "A comedic tale of an ordinary man’s intergalactic journey after Earth is destroyed."
+      },
+      {
+        "title": "The Space Between Worlds",
+        "desc": "In a multiverse of alternate realities, a woman travels between worlds to uncover dangerous secrets."
+      }
+    ],
+    "historical_fiction": [
+      {
+        "title": "The Book Thief",
+        "desc": "Set in Nazi Germany, the story follows a young girl who steals books and shares them with others during wartime."
+      },
+      {
+        "title": "The Nightingale",
+        "desc": "The tale of two sisters who become resistance fighters in Nazi-occupied France."
+      },
+      {
+        "title": "All the Light We Cannot See",
+        "desc": "A blind French girl and a German soldier's lives intersect during World War II."
+      },
+      {
+        "title": "The Pillars of the Earth",
+        "desc": "The story of the building of a cathedral in the fictional town of Kingsbridge in 12th-century England."
+      },
+      {
+        "title": "Atonement",
+        "desc": "The story of a young girl whose false accusation changes the lives of two lovers forever."
+      }
+    ],
+    "fantasy": [
+      {
+        "title": "The Name of the Wind",
+        "desc": "The first book in a series about the legendary figure Kvothe and his extraordinary life."
+      },
+      {
+        "title": "The Fellowship of the Ring",
+        "desc": "The first book in The Lord of the Rings trilogy, where a young hobbit embarks on a quest to destroy a powerful ring."
+      },
+      {
+        "title": "Mistborn: The Final Empire",
+        "desc": "A group of rebels seek to overthrow an immortal emperor in a world where ash falls from the sky."
+      },
+      {
+        "title": "Eragon",
+        "desc": "A young farm boy discovers he is the last of the Dragon Riders and embarks on a dangerous journey."
+      },
+      {
+        "title": "The Lightning Thief",
+        "desc": "A young boy discovers he is the son of a Greek god and embarks on a journey to prevent a war between gods."
+      }
+    ],
+    "romance_novel": [
+      {
+        "title": "Jane Eyre",
+        "desc": "A classic story of love, independence, and mystery as an orphaned girl grows up and falls in love with her employer."
+      },
+      {
+        "title": "Sense and Sensibility",
+        "desc": "The story of two sisters who navigate love, loss, and family duty in the 19th century."
+      },
+      {
+        "title": "Wuthering Heights",
+        "desc": "The passionate and tragic love story between Heathcliff and Catherine Earnshaw."
+      },
+      {
+        "title": "North and South",
+        "desc": "The tale of a woman’s love story with a mill owner in industrial England during the Victorian era."
+      },
+      {
+        "title": "Pride and Prejudice",
+        "desc": "The classic love story between Elizabeth Bennet and the wealthy, aloof Mr. Darcy."
+      }
+    ],
+    "short_stories": [
+      {
+        "title": "The Secret Garden",
+        "desc": "A young orphan girl discovers a secret garden and begins to heal and grow."
+      },
+      {
+        "title": "The Tell-Tale Heart",
+        "desc": "A suspenseful short story about a man driven to madness and murder."
+      },
+      {
+        "title": "The Lottery",
+        "desc": "A small town conducts an annual lottery with a dark and shocking outcome."
+      },
+      {
+        "title": "The Yellow Wallpaper",
+        "desc": "A woman descends into madness as she is confined to a room by her husband for treatment."
+      },
+      {
+        "title": "The Story of an Hour",
+        "desc": "A woman experiences a whirlwind of emotions when she learns of her husband's death."
+      }
+    ],
+    "western": [
+      {
+        "title": "The Lone Ranger and Tonto Fistfight in Heaven",
+        "desc": "A collection of short stories that explore Native American identity in contemporary America."
+      },
+      {
+        "title": "Blood Meridian",
+        "desc": "The brutal and philosophical story of a young man who joins a group of Indian-hunters in the 19th-century West."
+      },
+      {
+        "title": "Lonesome Dove",
+        "desc": "Two former Texas Rangers embark on a cattle drive through the American West."
+      },
+      {
+        "title": "True Grit",
+        "desc": "A young girl hires a tough U.S. Marshal to track down her father’s killer."
+      },
+      {
+        "title": "The Sisters",
+        "desc": "A woman investigates the mysterious death of her sister in a Wild West town."
+      }
+    ],
+    "horror": [
+      {
+        "title": "The Shining",
+        "desc": "A family is trapped in a haunted hotel with terrifying consequences."
+      },
+      {
+        "title": "It",
+        "desc": "A group of friends face their childhood fears when a supernatural entity threatens their town."
+      },
+      {
+        "title": "The Exorcist",
+        "desc": "A young girl is possessed by a demon, and a priest must confront evil to save her."
+      },
+      {
+        "title": "Dracula",
+        "desc": "The classic tale of Count Dracula, a vampire who terrorizes London and attempts to turn a young woman into one of his own."
+      },
+      {
+        "title": "The Haunting of Hill House",
+        "desc": "A group of people stay in a haunted house, and the horror begins to affect their lives in disturbing ways."
+      }
+    ],
+    "classic": [
+      {
+        "title": "Moby Dick",
+        "desc": "The epic story of Captain Ahab's obsessive quest to hunt down the white whale Moby Dick."
+      },
+      {
+        "title": "The Great Gatsby",
+        "desc": "A story of love, wealth, and tragedy during the Jazz Age."
+      },
+      {
+        "title": "1984",
+        "desc": "A dystopian novel about a totalitarian regime that controls every aspect of life."
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "desc": "A young girl witnesses her father defending an innocent black man accused of raping a white woman."
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "desc": "The story of a disillusioned teenager, Holden Caulfield, navigating the complexities of adulthood."
+      }
+    ]
+  },
+  "B1": {
+        "adventure": [
+            {"title": "The Three Musketeers", "desc": "The adventures of D'Artagnan and his friends Athos, Porthos, and Aramis."},
+            {"title": "Journey to the Center of the Earth", "desc": "A scientist, his nephew, and a guide embark on a journey to the Earth's core."},
+            {"title": "Around the World in 80 Days", "desc": "Phileas Fogg challenges himself to travel around the world in just 80 days."},
+            {"title": "The Call of the Wild", "desc": "A domesticated dog is forced to return to the wild after being sold."},
+            {"title": "The Odyssey", "desc": "The epic journey of Odysseus trying to return home after the Trojan War."}
+        ],
+        "detective": [
+            {"title": "The Adventures of Sherlock Holmes", "desc": "Sherlock Holmes solves mysteries with his brilliant deductive reasoning."},
+            {"title": "The Hound of the Baskervilles", "desc": "Sherlock Holmes investigates the mysterious death linked to a legendary ghostly hound."},
+            {"title": "Murder on the Orient Express", "desc": "Hercule Poirot investigates a murder aboard the luxurious train."},
+            {"title": "The Girl with the Dragon Tattoo", "desc": "A journalist and a hacker uncover a deep family mystery."},
+            {"title": "The Woman in White", "desc": "A young man investigates the mysterious appearance of a woman who seems to come from a ghostly past."}
+        ],
+        "science_fiction": [
+            {"title": "The Martian", "desc": "Astronaut Mark Watney survives alone on Mars and tries to find a way back home."},
+            {"title": "Ender's Game", "desc": "A young boy is trained in a military academy to fight in a future war with alien species."},
+            {"title": "The Time Machine", "desc": "A Victorian scientist invents a machine that allows him to travel through time."},
+            {"title": "Brave New World", "desc": "A dystopian society where people are bred and conditioned for specific roles."},
+            {"title": "I, Robot", "desc": "A series of stories about robots and their interaction with humans in a futuristic world."}
+        ],
+        "historical_fiction": [
+            {"title": "War and Peace", "desc": "A historical novel set during the Napoleonic wars, focusing on Russian aristocracy."},
+            {"title": "Les Misérables", "desc": "The story of ex-convict Jean Valjean and his struggles with the law in 19th century France."},
+            {"title": "The Book Thief", "desc": "A young girl living in Nazi Germany steals books to escape the harsh reality around her."},
+            {"title": "The Pillars of the Earth", "desc": "The construction of a cathedral in medieval England forms the backdrop for this epic story."},
+            {"title": "A Tale of Two Cities", "desc": "The French Revolution provides the setting for a story of love and sacrifice."}
+        ],
+        "fantasy": [
+            {"title": "The Hobbit", "desc": "Bilbo Baggins embarks on an unexpected journey to recover treasure from a dragon."},
+            {"title": "Harry Potter and the Chamber of Secrets", "desc": "Harry returns to Hogwarts for his second year, discovering new secrets about the magical world."},
+            {"title": "The Lion, the Witch and the Wardrobe", "desc": "Four children discover a magical world inside a wardrobe and embark on a quest to defeat an evil queen."},
+            {"title": "The Lightning Thief", "desc": "Percy Jackson, a demigod, embarks on a journey to prevent a war between the gods."},
+            {"title": "Eragon", "desc": "A young farm boy discovers a dragon egg and embarks on a journey to defeat an evil king."}
+        ]
+  },
+  "B2": {
+        "adventure": [
+            {"title": "The Lost World", "desc": "A group of explorers discovers a hidden world of dinosaurs in South America."},
+            {"title": "King Solomon's Mines", "desc": "A daring adventure to find a legendary treasure in Africa."},
+            {"title": "The Call of the Wild", "desc": "A dog named Buck learns to survive in the wild during the Gold Rush."},
+            {"title": "Around the World in 80 Days", "desc": "Phileas Fogg attempts to travel the world in under 80 days, facing many challenges."},
+            {"title": "The Secret Garden", "desc": "A young girl discovers a magical garden and helps restore it to its former glory."}
+        ],
+        "detective": [
+            {"title": "The Big Sleep", "desc": "Private detective Philip Marlowe investigates a case involving a wealthy family."},
+            {"title": "The Girl with the Dragon Tattoo", "desc": "A journalist and hacker uncover family secrets tied to a decades-old mystery."},
+            {"title": "The Cuckoo's Calling", "desc": "A detective is hired to investigate the apparent suicide of a famous model."},
+            {"title": "The Shadow of the Wind", "desc": "A young man investigates the mysterious life of a forgotten author."},
+            {"title": "Gone Girl", "desc": "A husband becomes the prime suspect in his wife's disappearance."}
+        ],
+        "science_fiction": [
+            {"title": "Neuromancer", "desc": "A washed-up computer hacker is hired to pull off the ultimate hack in cyberspace."},
+            {"title": "Dune", "desc": "A young nobleman must protect his family and control a vital spice on a desert planet."},
+            {"title": "Snow Crash", "desc": "A hacker and a samurai warrior team up to stop a digital disaster."},
+            {"title": "The Handmaid's Tale", "desc": "A woman lives under a totalitarian regime that controls every aspect of society."},
+            {"title": "Altered Carbon", "desc": "In a future where consciousness can be transferred, a detective solves a rich man's murder."}
+        ],
+        "historical_fiction": [
+            {"title": "The Nightingale", "desc": "Two sisters fight for survival in Nazi-occupied France during World War II."},
+            {"title": "The Book Thief", "desc": "A young girl steals books and shares them with others during the horrors of World War II."},
+            {"title": "The Pillars of the Earth", "desc": "The story of the building of a cathedral in medieval England."},
+            {"title": "All the Light We Cannot See", "desc": "A blind French girl and a German soldier’s lives intertwine during World War II."},
+            {"title": "The Help", "desc": "The story of three women in 1960s Mississippi who challenge racism."}
+        ],
+        "fantasy": [
+            {"title": "The Name of the Wind", "desc": "A gifted young man recounts his journey from humble beginnings to becoming a legend."},
+            {"title": "A Game of Thrones", "desc": "Noble families vie for control of the Iron Throne in a brutal medieval fantasy world."},
+            {"title": "Mistborn: The Final Empire", "desc": "A group of rebels with extraordinary powers attempt to overthrow an oppressive regime."},
+            {"title": "The Lies of Locke Lamora", "desc": "A master thief and his crew take on a dangerous crime syndicate."},
+            {"title": "The Night Circus", "desc": "Two illusionists create a magical rivalry that threatens everyone around them."}
+        ]
+  },
+  "C1": {
+        "adventure": [
+            {"title": "The Call of the Wild", "desc": "A domestic dog named Buck must adapt to the harsh wilderness during the Klondike Gold Rush."},
+            {"title": "Treasure Island", "desc": "A young boy embarks on an adventurous journey to find buried treasure on a distant island."},
+            {"title": "Moby-Dick", "desc": "The story of Captain Ahab's obsessive quest to hunt down the white whale, Moby Dick."},
+            {"title": "The Alchemist", "desc": "A young Andalusian shepherd named Santiago sets off on a journey to find a hidden treasure in Egypt."},
+            {"title": "The Lost World", "desc": "A group of explorers discovers a hidden world full of prehistoric creatures in South America."}
+        ],
+        "detective": [
+            {"title": "The Hound of the Baskervilles", "desc": "Sherlock Holmes investigates the mysterious death linked to a legendary ghostly hound."},
+            {"title": "The Girl with the Dragon Tattoo", "desc": "A journalist and a hacker uncover a family’s dark secrets in a thrilling investigation."},
+            {"title": "The Secret History", "desc": "A group of brilliant students becomes involved in a murder investigation after an isolated and mysterious crime."},
+            {"title": "The Big Sleep", "desc": "Private detective Philip Marlowe gets involved in a complex mystery involving a wealthy family."},
+            {"title": "The Woman in White", "desc": "A young man is drawn into the mystery of a woman who seems to have a supernatural connection."}
+        ],
+        "science_fiction": [
+            {"title": "1984", "desc": "A dystopian future in which the government constantly watches and controls everything, from thoughts to actions."},
+            {"title": "Dune", "desc": "On a desert planet, Paul Atreides becomes embroiled in political intrigue while discovering his own prophetic destiny."},
+            {"title": "The Stars My Destination", "desc": "A space opera about a vengeful man’s journey through the universe to get back at those who wronged him."},
+            {"title": "The Left Hand of Darkness", "desc": "A story about political intrigue on a planet where the inhabitants can change gender."},
+            {"title": "Neuromancer", "desc": "A computer hacker in a future world of artificial intelligence and cyberspace must complete a dangerous mission."}
+        ],
+        "historical_fiction": [
+            {"title": "The Book Thief", "desc": "A young girl finds comfort in stealing books and sharing them with others during the horrors of World War II."},
+            {"title": "The Nightingale", "desc": "Two sisters in Nazi-occupied France fight for survival and become heroes in their own right."},
+            {"title": "The Pillars of the Earth", "desc": "A historical epic about the construction of a cathedral in medieval England, set against a backdrop of war and family drama."},
+            {"title": "Atonement", "desc": "The consequences of a young girl’s mistaken accusation reverberate through the lives of those involved, spanning several decades."},
+            {"title": "All the Light We Cannot See", "desc": "A blind French girl and a German soldier’s lives intertwine during the devastation of World War II."}
+        ],
+        "fantasy": [
+            {"title": "The Name of the Wind", "desc": "A gifted young man recalls his journey from an orphaned child to a legendary figure in a magical world."},
+            {"title": "The Way of Kings", "desc": "In a world ravaged by storms, a group of warriors must fight for control and survival."},
+            {"title": "A Game of Thrones", "desc": "Noble families vie for control of the Iron Throne in a brutal world filled with dragons, magic, and political intrigue."},
+            {"title": "The Lies of Locke Lamora", "desc": "A master thief leads a band of con artists through a criminal underworld in the city of Camorr."},
+            {"title": "The Night Circus", "desc": "Two magicians set up an eerie competition that spans over several years, affecting the lives of everyone involved."}
+        ],
+        "romance": [
+            {"title": "Pride and Prejudice", "desc": "Elizabeth Bennet navigates society, romance, and family pressures while dealing with the enigmatic Mr. Darcy."},
+            {"title": "Wuthering Heights", "desc": "A passionate and destructive love story between Catherine Earnshaw and Heathcliff that spans generations."},
+            {"title": "Outlander", "desc": "A nurse from 1945 is mysteriously transported back in time to 18th century Scotland and falls in love with a Highland warrior."},
+            {"title": "The Fault in Our Stars", "desc": "Two teenagers with cancer meet and fall in love, embarking on a journey to understand life and loss."},
+            {"title": "The Notebook", "desc": "A couple’s love story, beginning in the 1940s, is rekindled in their old age as they reflect on their years together."}
+        ]
+  }
+}
